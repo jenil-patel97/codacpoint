@@ -11,7 +11,7 @@ const Hero = () => {
         <p className="ml-[120px] text-[#1A1E3F] text-[28px] mt-[40px] font-bold">
           We work with the Best Partners
         </p>
-        <p className="ml-[120px] my-[76px] mt-[35px] text-[22px] text-base">
+        <p className="ml-[120px] my-[76px] mt-[35px] text-base">
           Lorem Ipsum is simply dummy text of the printing <br /> and
           typesetting industry. Lorem Ipsum has been the <br /> industry's
           standard dummy text ever since the 1500s, <br /> when an unknown

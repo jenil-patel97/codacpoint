@@ -5,6 +5,7 @@ import Project from "./components/Project";
 import Partners from "./components/Partners.jsx";
 import Card from "./components/Card";
 import Letter from "./components/Letter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Partners />
       <Card />
       <Letter />
+      <Footer />
     </div>
   );
 }
