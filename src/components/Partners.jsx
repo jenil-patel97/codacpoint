@@ -20,15 +20,21 @@ const Hero = () => {
           only five centuries, but also the leap into <br /> electronic
           typesetting, remaining essentially unchanged.
         </p>
-       
       </div>
       <div className="grid grid-cols-2 ">
-        <img className="w-[180px] ml-[30px] mt-[40px]" src={Swiggy} alt="swiggy" />
-        <img className="mb-[90px] w-[160px]  mt-[40px] ml-[80px]" src={Zomato} alt="zomato" />
+        <img
+          className="w-[180px] ml-[30px] mt-[40px]"
+          src={Swiggy}
+          alt="swiggy"
+        />
+        <img
+          className="mb-[90px] w-[160px]  mt-[40px] ml-[80px]"
+          src={Zomato}
+          alt="zomato"
+        />
         <img className="w-[80px] ml-[85px]" src={Ubisoft} alt="ubi" />
         <img className="w-[160px] ml-[85px]" src={Paytm} alt="paytm" />
       </div>
-      
     </div>
   );
 };
