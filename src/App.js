@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Project from "./components/Project";
 import Partners from "./components/Partners.jsx";
 import Card from "./components/Card";
+import Letter from "./components/Letter";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Project />
       <Partners />
       <Card />
+      <Letter />
     </div>
   );
 }
