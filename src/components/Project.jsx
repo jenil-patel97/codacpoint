@@ -29,7 +29,7 @@ const Hero = () => {
             behaviour, Heatmap tracking, Detect Proxy/VPN/Spam users, B2B Lead
             Generation, etc...
           </p>
-          <button className="ml-[103px] text-black w-[200px] border border-orange-500  rounded-[23px] my-4 md:mx-0 py-3">
+          <button style={{marginLeft: '150px'}} className=" text-black w-[200px] border border-orange-500  rounded-[23px] my-4 md:mx-0 py-3">
             View More
           </button>
         </div>

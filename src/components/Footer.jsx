@@ -49,6 +49,9 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+      <div className="w-full  ml-[525px]">
+        <p>© 2022 codacpoint. All Rights Reserved</p>
+      </div>
     </div>
   );
 };
